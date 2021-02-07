@@ -1,1 +1,1 @@
-# Natural_Disaster_Detection
+# Natural Disaster Detection
